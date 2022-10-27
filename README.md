@@ -1,4 +1,4 @@
-# AreYouWorking?
+# Get a summary of lectures with subtitles in the fraction of the transcript.
 Facial Recognition for verifying if the correct individual is taking test or doing work . This can be used for monitoring purposes and verifying the individual.
 
 
