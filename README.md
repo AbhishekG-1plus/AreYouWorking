@@ -10,6 +10,7 @@
 
 # Are You Working? 😉
 Facial Recognition for verifying if the correct individual is taking test or doing work for certain peroid of time in todays world of post pandemic where remote work culture and online tests have prevailed . This can be used for monitoring purposes and verifying the individual.
+<img width="952" alt="Screenshot 2022-10-29 at 2 03 44 PM" src="https://user-images.githubusercontent.com/77354191/198822126-4ce5d672-ff7c-4269-99db-2c5cc3ecfab5.png">
 
 # System Design :
 
