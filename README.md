@@ -1,21 +1,25 @@
 # Introduction
 
-| Variable | Description |
+| Variable | Value |
 | --- | --- |
 | Name | Abhishek Ramesh Gadekar |
 | Institute | Indian Institute of Technology, Jodhpur |
+| Department | Elecrtical Engineering |
 | Graduation Year | 2024 |
 | Email | gadekar.1@iitj.ac.in |
 
-# Are You Working?
-Facial Recognition for verifying if the correct individual is taking test or doing work . This can be used for monitoring purposes and verifying the individual.
+# Are You Working? 😉
+Facial Recognition for verifying if the correct individual is taking test or doing work for certain peroid of time in todays world of post pandemic where remote work culture and online tests have prevailed . This can be used for monitoring purposes and verifying the individual.
+
+# System Design :
 
 
 # Packages required to run :
-1. ```pip install dlib==19.18.0```
+1. ```pip install dlib==19.18.0``` (the newwer version may create errors)
 2. ```pip install face-recognition```
 3. ```pip install opencv-python```
-4. ```pip install PyQt5``` (check below if working on M1 mac for installation)
+4. ```pip install numpy```
+5. ```pip install PyQt5``` (check below if working on M1 mac for installation)
 
 # Steps to Run the Application:
 1. Clone the repository and open the project in pycharm and run the mainwindow.py and/before install all the necessary packages stated above.
