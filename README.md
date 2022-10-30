@@ -10,7 +10,9 @@
 
 # Are You Working? 😉
 Facial Recognition for verifying if the correct individual is taking test or doing work for certain peroid of time in todays world of post pandemic where remote work culture and online tests have prevailed . This can be used for monitoring purposes and verifying the individual.
-<img width="952" alt="Screenshot 2022-10-29 at 2 03 44 PM" src="https://user-images.githubusercontent.com/77354191/198822126-4ce5d672-ff7c-4269-99db-2c5cc3ecfab5.png">
+
+![abhi](https://user-images.githubusercontent.com/77354191/198884308-8ca7ae45-3e12-4a18-b849-7094018695a2.jpeg)
+
 
 # System Design :
 ```The AI functionality of face_recognition was implemented in the frontend. My code is an amalgam of frontend and backend and there is no seperate line seperating the two due to the choice of technologies , languages and frameworks I used.```
