@@ -9,13 +9,13 @@
 | Email | gadekar.1@iitj.ac.in |
 
 # Are You Working? 😉
-Facial Recognition for verifying if the correct individual is taking test or doing work for certain peroid of time in todays world of post pandemic where remote work culture and online tests have prevailed . This can be used for monitoring purposes and verifying the individual.
+Facial Recognition for verifying if the correct individual is taking test, verifying if he logged in and logged out during the correct peroid. This can be used for monitoring purposes and for identification purposes.
 
 ![abhi](https://user-images.githubusercontent.com/77354191/198884308-8ca7ae45-3e12-4a18-b849-7094018695a2.jpeg)
 
 
 # System Design :
-####  ```The AI functionality of face_recognition was implemented in the frontend.  My code is an amalgam of frontend and backend and there is no seperate line seperating the two due to the choice of technologies , languages and frameworks I used.```
+####  ```The AI functionality of face_recognition was implemented in the backend.  My code is an amalgam of frontend and backend and there is no seperate line seperating the two due to the choice of technologies , languages and frameworks I used.```
 
 ### 1. Frontend : PyQt5 & Qt-Designer ( to develop cross platform functional GUI)
 
