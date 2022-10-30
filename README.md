@@ -17,9 +17,9 @@ Facial Recognition for verifying if the correct individual is taking test or doi
 # System Design :
 ####  ```The AI functionality of face_recognition was implemented in the frontend.  My code is an amalgam of frontend and backend and there is no seperate line seperating the two due to the choice of technologies , languages and frameworks I used.```
 
-### 1. Frontend : PyQt5 , Qt-Designer & Python was used to develop a complete cross-platform application.
+### 1. Frontend : PyQt5 & Qt-Designer ( to develop cross platform functional GUI)
 
-### 2. Backend : Backend (or logic) was written in python and open-cv libraries were used to do the face-recognition and check in and check out.
+### 2. Backend : Python, OpenCV , Face_Recognition , other libraries
 
 
 
