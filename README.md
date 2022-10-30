@@ -31,7 +31,7 @@ Facial Recognition for verifying if the correct individual is taking test or doi
 5. ```pip install PyQt5``` (check below if working on M1 mac for installation)
 
 # Steps to Run the Application:
-1. Clone the repository and open the project in pycharm and run the mainwindow.py and/before install all the necessary packages stated above. (for winows or intel based macs, m1 mac users please download intel based pycharm and run the same)
+1. Clone the repository and open the project in pycharm and run the mainwindow.py and/before install all the necessary packages stated above. (for windows or intel based macs, m1 mac users please download intel based pycharm and run the mainwindow.py file)
 
 # Steps to Run the Appplication on M1-Mac:
 
