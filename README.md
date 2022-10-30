@@ -37,6 +37,8 @@ Facial Recognition for verifying if the correct individual is taking test or doi
 
 ```Pro Tip: I just got know to that you can install intel version of pycharm (slower but better, no packages break) on M1 mac and run the code without any virtual environments or face any difficult in installing pyqt5 after working all the way with m1 pychaerm xd.``` 
 
+OR 
+
 1. Open terminal with Rosetta 2 (See here : https://dev.to/courier/tips-and-tricks-to-setup-your-apple-m1-for-development-547g)
 2.  ```/usr/bin/python3 -m venv env``` Create virtual environment using non-brew python ( mine was in /usr/bin/python3)
 3.  ```source env/bin/activate``` Activate the environment 
