@@ -15,6 +15,8 @@ Facial Recognition for verifying if the correct individual is taking test, verif
 
 
 # System Design :
+            A cross-platform app was developed using PyQt5, Python, OpenCV , Face_Recognition & Qt-Designer
+
 ####  ```The AI functionality of face_recognition was implemented in the backend.  My code is an amalgam of frontend and backend and there is no seperate line seperating the two due to the choice of technologies , languages and frameworks I used.```
 
 ### 1. Frontend : PyQt5 & Qt-Designer ( to develop cross platform functional GUI)
