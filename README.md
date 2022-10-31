@@ -15,9 +15,23 @@ Facial Recognition for verifying if the correct individual is taking test, verif
 
 # How It Works?
 
+1. Run the app by clicking ```start``` 
+
+<img width="571" alt="Screenshot 2022-10-31 at 10 33 43 PM" src="https://user-images.githubusercontent.com/77354191/199066655-b69ab261-a0e7-408b-8811-78cca6d8da29.png">
+
+2. Press ```clock in``` and the application identifies you and starts counting your logged in time. (Great for remote working companies)
+
+<img width="965" alt="Screenshot 2022-10-31 at 10 34 06 PM" src="https://user-images.githubusercontent.com/77354191/199067038-ae283366-d321-4870-affd-07070db9f8db.png">
+
+3. Log out by pressing ```clock out```, it shows the the time peroid for which you worked and makes sure the user was infront of the screen for the time peroid.
+<img width="957" alt="Screenshot 2022-10-31 at 10 35 11 PM" src="https://user-images.githubusercontent.com/77354191/199067644-3f36352f-06c2-41d1-a780-2ea26b26bd17.png">
+
+
+
+
 
 # System Design :
-            A cross-platform app was developed using PyQt5, Python, OpenCV , Face_Recognition & Qt-Designer
+           A cross-platform app was developed using PyQt5, Python, OpenCV , Face_Recognition & Qt-Designer
 
 ####  ```The AI functionality of face_recognition was implemented in the backend.  The functionality was implemented in the backend because using it one can make necessary logic implementations to do the correct prediction .```
 
@@ -54,4 +68,5 @@ OR
 
 
 # Future scope of the project: 
-The current model doesnt ditinguish between a photo and real person and thus can be easily fooled. It can be resolved mostly by implementing a full body detection algorithm.
+The current model doesnt ditinguish between a photo and real person and thus can be easily fooled. It can be resolved mostly by implementing a full body detection algorithm. 
+Apart from that there are some bugs(logical erros) which I couldnt resolve due to less time available while making this project.
