@@ -41,7 +41,7 @@ Facial Recognition for verifying if the correct individual is taking test, verif
 
 
 
-# Packages required to run :
+# Install Dependencies:
 1. ```pip install dlib==19.18.0``` (the newwer version may create errors)
 2. ```pip install face-recognition```
 3. ```pip install opencv-python```
@@ -53,5 +53,5 @@ Facial Recognition for verifying if the correct individual is taking test, verif
 
 
 # Future scope of the project: 
-The current model doesnt ditinguish between a photo and real person and thus can be easily fooled. It can be resolved mostly by implementing a full body detection algorithm. 
-Apart from that there are some bugs(logical erros) which I couldnt resolve due to less time available while making this project.
+1. The current model doesnt ditinguish between a photo and real person and thus can be easily fooled. It can be resolved mostly by implementing a full body detection algorithm. 
+2. Apart from that there are some bugs(logical erros) which I couldnt resolve due to less time available while making this project.
