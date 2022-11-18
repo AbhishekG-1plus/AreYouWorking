@@ -55,3 +55,4 @@ Facial Recognition for verifying if the correct individual is taking test, verif
 # Future scope of the project: 
 1. The current model doesnt ditinguish between a photo and real person and thus can be easily fooled. It can be resolved mostly by implementing a full body detection algorithm. 
 2. Apart from that there are some bugs(logical erros) which I couldnt resolve due to less time available while making this project.
+3. It is not developed forr multiple users, therfore it can be scaled up to handle simulataneous monitoring of multiple users parallely.
